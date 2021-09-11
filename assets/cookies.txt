@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.rsms.me	TRUE	/	FALSE	1999999999	__cfduid	d9d69e80bae53e0bcbea6d4f6378b0e591604306307
+rsms.me	TRUE	/	FALSE	1999999999	SameSite	Lax
+
